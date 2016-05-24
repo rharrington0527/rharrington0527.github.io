@@ -2,6 +2,7 @@ body {
 	background-color: #cec4c4;
 	color: white;
 	font-family: Tahoma;
+        float: none;
 }
 
 h1,p {
