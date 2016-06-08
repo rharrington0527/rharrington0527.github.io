@@ -1,0 +1,32 @@
+body{
+	background:url(https://static.pexels.com/photos/7092/desk-office-hero-workspace.jpg);
+	background-size: cover;
+}
+h1{
+	size:;
+}
+.above-fold {
+	color:#000;
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 75px;
+	float: center;
+
+}
+
+.below-fold {
+	font-family: Helvetica;
+	text-align: left;
+	font-size: 18px;
+	color:#000;
+	background-color: white;
+	background-size: 50%100%;
+}
+
+#slogan{
+	font-style: italic;
+	color: #000;
+	font-size:30px;
+	font-family:helvetica;
+	text-align: center;
+}
