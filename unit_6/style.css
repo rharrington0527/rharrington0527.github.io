@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Patua+One);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700italic);
+
+body{
+	letter-spacing: .1em;
+}
+
+nav {
+	font-family: 'Open Sans', Helvetica;
+	text-align: right;
+	padding: 2em 2em 2em 0;
+	background-color: #E8C66A;
+}
+
+header{
+	background:url(https://static.pexels.com/photos/7092/desk-office-hero-workspace.jpg);
+	background-size: 1200px;
+	background-repeat: no-repeat;
+	padding: 5em 5em;
+	background-color:#FFED74;
+}
+
+
+#title{
+	font-family: 'Patua One', 'Helvetica';
+	font-size: 8em;
+	text-align: center;
+}
+
+#slogan{
+	font-style: italic;
+	color: #000;
+	font-size:30px;
+	font-family:'Open Sans';
+	text-align: center;
+}
+
+.copy{
+	font-family: 'Open Sans','Helvetica';
+	font-size: 14px;
+	font-color: #585858;
+	float: right;
+	padding: 0 0 0 40em;
+	background-color: #FFC675;
+}
+
+.image{
+	background:url(https://static.pexels.com/photos/8704/pen-idea-bulb-paper.jpg);
+	background-size: 50%;
+	background-repeat: no-repeat;
+	font-family: 'Patua One', 'Helvetica';
+	font-align: left;
+	font-color: #fff;
+	padding: 10em 40em 10em 40em;
+	background-color: #E89C6C;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+footer{
+	text-align: center;
+	font-family: 'Open Sans', 'Helvetica';
+	background-color: #FF957E;
+	padding: 2em 0;
+	float: bottom;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
